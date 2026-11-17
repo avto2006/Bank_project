@@ -1,16 +1,47 @@
-# React + Vite
+Banking Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Modern and fully responsive financial dashboard built with React, Vite, and Tailwind CSS. Features real-time utility bill payments, mobile top-up, currency conversion, transaction management, and dual language support (Georgian and English).
 
-Currently, two official plugins are available:
+Live Demo
+https://bank-project-tau.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+GitHub Repository
+https://github.com/avto2006/banking-dashboard
 
-## React Compiler
+Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React
 
-## Expanding the ESLint configuration
+Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Tailwind CSS
+
+Lucide React
+
+Features
+
+Live financial metrics and charts
+
+Utility bill payments and mobile balance top-up
+
+Transaction filtering and adding new entries
+
+Interactive virtual card management
+
+Full Georgian and English language switching
+
+Dark and Light mode support
+
+Setup and Installation
+
+Clone the repository:
+git clone https://github.com/avto2006/banking-dashboard.git
+
+Navigate to the project directory:
+cd banking-dashboard
+
+Install dependencies:
+npm install
+
+Run the development server:
+npm run dev
