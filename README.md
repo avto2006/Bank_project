@@ -5,8 +5,7 @@ Modern and fully responsive financial dashboard built with React, Vite, and Tail
 Live Demo
 https://bank-project-tau.vercel.app/
 
-GitHub Repository
-https://avto2006.github.io/Bank_project/
+
 
 Tech Stack
 
