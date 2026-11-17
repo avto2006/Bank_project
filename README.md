@@ -6,7 +6,7 @@ Live Demo
 https://bank-project-tau.vercel.app/
 
 GitHub Repository
-https://github.com/avto2006/banking-dashboard
+https://avto2006.github.io/Bank_project/
 
 Tech Stack
 
